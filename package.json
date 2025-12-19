@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/dimasgodima/khai-node-js-course.git"
   },
-  "author": "",
+  "author": "Dmytro Honcharuk",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dimasgodima/khai-node-js-course/issues"
   },
-  "homepage": "https://github.com/dimasgodima/khai-node-js-course#readme"
+  "homepage": "https://github.com/dimasgodima/khai-node-js-course#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
